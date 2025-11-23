@@ -85,6 +85,7 @@ efm = Ac * cos((2*3.14*Fc*t) + ( b*sin(2*3.14*Fm*t)));
 subplot(3,1,3);
 plot(t,efm);
 xgrid;
+```
 
 Output Waveform
 ![WhatsApp Image 2025-11-16 at 13 35 06](https://github.com/user-attachments/assets/c2992d71-449a-4675-92e3-dd59aaa04678)
