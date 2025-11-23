@@ -65,7 +65,7 @@ MODEL GRAPH:
 
 
 Program
-
+```
 Am=10.2;
 Fm=410;
 b = 4.1;
