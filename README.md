@@ -88,7 +88,8 @@ xgrid;
 ```
 
 Output Waveform
-![WhatsApp Image 2025-11-16 at 13 35 06](https://github.com/user-attachments/assets/c2992d71-449a-4675-92e3-dd59aaa04678)
+![WhatsApp Image 2025-11-22 at 10 20 22](https://github.com/user-attachments/assets/55ebd63e-223b-4857-8eaa-eb2f733a7eb1)
+
 
 
 
